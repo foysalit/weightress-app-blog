@@ -95,3 +95,14 @@ export const chartConfig = {
     stroke: '#ffa726',
   },
 };
+
+export const syncStyles = {
+  container: {
+    paddingVertical: 5,
+    alignItems: 'center',
+    backgroundColor: primaryColor,
+  },
+  text: {
+    color: '#FFFFFF',
+  },
+};
